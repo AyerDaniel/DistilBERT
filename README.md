@@ -1,2 +1,7 @@
-# ds677
-Deep Learning Project 2025
+!["Page 1"]("1.png")
+![Page 2]("2.png")
+![Page 3]("3.png")
+![Page 4]("4.png")
+![Page 5]("5.png")
+![Page 6]("6.png")
+![Page 7]("7.png")
